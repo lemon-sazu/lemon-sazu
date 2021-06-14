@@ -8,7 +8,7 @@
 lemon-sazu/lemon-sazu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### Hi there, I'm Mynul Hasan 👋
+### Hi there, I'm Mynul Hasan <img  alt="HI" width="26px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/hi.gif" />
 
 ---
 
@@ -18,12 +18,18 @@ You can click the Preview link to take a look at your changes.
 
 ### 🧰 Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://github.com/lemon-sazu/lemon-sazu/blob/master/Assets/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/lemon-sazu/lemon-sazu/blob/master/Assets/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/lemon-sazu/lemon-sazu/blob/master/Assets/javascript.png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/lemon-sazu/lemon-sazu/blob/master/Assets/python.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/lemon-sazu/lemon-sazu/blob/master/Assets/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://github.com/lemon-sazu/lemon-sazu/blob/master/Assets/git.png" />
+<img align="left" alt="Terminal" height="26px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/terminal.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/visual-studio-code.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/python.png" />
+<img align="left" alt="Django" width="26px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/django.png" />
+<img align="left" alt="VUE" width="26px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/vuejs.png" />
+<img align="left" alt="HTML5" height="26px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/html.png" />
+<img align="left" alt="CSS" height="26px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/css.png" />
+<img align="left" alt="JS" height="26px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/javascript.png" />
+<img align="left" alt="POSTGRESQL" height="26px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/PostgreSQL.png" />
+<img align="left" alt="MYSQl" height="26px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/mysql.png" />
+<img align="left" alt="Github" height="26px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/github.png" />
+<img align="left" alt="Git" width="26px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/git.png" />
 
 <br />
 <br />
