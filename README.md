@@ -14,19 +14,19 @@ You can click the Preview link to take a look at your changes.
 
 ### 🧰 Languages and Tools:
 
-<img align="left" alt="Terminal" height="26px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/terminal.png" />
+<img align="left" alt="Terminal" height="30px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/visual-studio-code.png" />
-<img align="left" alt="PHP" width="26px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/new-php-logo.png" />
-<img align="left" alt="Laravel" width="60px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/laravel1.svg" />
-<img align="left" alt="VUE" width="26px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/nuxt.svg" />
-<img align="left" alt="VUE" width="26px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/vuejs.png" />
-<img align="left" alt="HTML5" height="26px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/html.png" />
-<img align="left" alt="CSS" height="26px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/css.png" />
-<img align="left" alt="JS" height="26px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/javascript.png" />
-<img align="left" alt="POSTGRESQL" height="26px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/PostgreSQL.png" />
-<img align="left" alt="MYSQl" height="26px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/mysql.png" />
-<img align="left" alt="Github" height="26px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/github.png" />
-<img align="left" alt="Git" width="26px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/git.png" />
+<img align="left" alt="PHP" width="30px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/new-php-logo.png" />
+<img align="left" alt="Laravel" width="30px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/laravel1.svg" />
+<img align="left" alt="VUE" width="30px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/nuxt.svg" />
+<img align="left" alt="VUE" width="30px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/vuejs.png" />
+<img align="left" alt="HTML5" height="30px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/html.png" />
+<img align="left" alt="CSS" height="30px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/css.png" />
+<img align="left" alt="JS" height="30px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/javascript.png" />
+<img align="left" alt="POSTGRESQL" height="30px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/PostgreSQL.png" />
+<img align="left" alt="MYSQl" height="30px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/mysql.png" />
+<img align="left" alt="Github" height="30px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/github.png" />
+<img align="left" alt="Git" width="30px" src="https://github.com/lemon-sazu/mynul/blob/main/assets/git.png" />
 
 <br />
 <br />
